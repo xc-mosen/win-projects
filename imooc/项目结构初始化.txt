@@ -1,0 +1,20 @@
+《项目结构初始化》
+-  Imooc/
+   >npm install express
+   >npm install jade
+   >npm install monogoose
+   >npm install bower -g
+   >bower install bootstrap
+
+
+
+《创建视图》
+- Imooc/
+  -node_modules/
+  -bower_components/
+  -views/
+        -index.jade
+        -details.jade
+        -admin.jade
+        -list.jade
+  -app.js
